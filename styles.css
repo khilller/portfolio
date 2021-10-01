@@ -1,5 +1,9 @@
 @import url("https://use.typekit.net/chp7rex.css");
 
+html {
+    scroll-behavior: smooth;
+}
+
 #navbar {
     display: flex;
     padding: 20px 0 20px 20px;
